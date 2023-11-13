@@ -16,7 +16,7 @@
 <br> ** Solid FLOW_E Report/Record File **
 
 <BR>&nbsp;
-<br> Date/time : 2023/11/13  11:20:32
+<br> Date/time : 2023/11/13  15:10:19
 <br> File path : C:\Users\wskelly\github\dfm-mold\Simulation\simulation_tong_half\Default\Default
 <br> Software type : x64
 <br>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -107,9 +107,9 @@
  # Geometric data information ......          
 </b>
 <br>
-<br>    Part Max. Extent= 10.73  cm (x: 1.307249  y: 0.635000  z: 10.731500)
-<br>    Number of Cells  = 11333        (Hexa=0,  Prism=5304,  Pyramid=0,  Tetra=6029)
-<br>    Number of Nodes  = 4397
+<br>    Part Max. Extent= 10.73  cm (x: 1.307107  y: 0.635000  z: 10.731500)
+<br>    Number of Cells  = 17915        (Hexa=0,  Prism=7960,  Pyramid=0,  Tetra=9955)
+<br>    Number of Nodes  = 6738
 <br>
 <b>
 <br>
@@ -147,7 +147,7 @@
       = 0.00e+00  (necessary)
 <br>
       31008 101 Pressure Holding Time
-      = 4.28e+00  (necessary)
+      = 4.34e+00  (necessary)
 <br>
       31009 101 Total Time in Pack Stage
       = 2.01e+01  (necessary)
@@ -364,29 +364,29 @@
 <br>   ** COOL results file 'filename.TWL3'(Transient Wall Temperature) does not exist
 <br>   ** COOL results file 'filename.WL1/WL2/WL3'(Cycle Averaged Wall Temperature) does not exist
 <br>
-<br>    Part total volume               =   2.308 cm3 
+<br>    Part total volume               =   2.390 cm3 
 <br>
 <br>    For Injection Domain:  1
-<br>      Domain volume				=   2.308 cm3 
+<br>      Domain volume				=   2.390 cm3 
 <br>
 <br>      Injection system  1 - 
-<br>        Inlet flow rate				=   1.154 cm3/sec 
-<br>        Inlet normal velocity			=  26.997 cm/sec 
-<br>        Inlet region area			=   0.043 cm2 
-<br>        Inlet Reynolds No.			= 0.003263
+<br>        Inlet flow rate				=   1.195 cm3/sec 
+<br>        Inlet normal velocity			=  26.267 cm/sec 
+<br>        Inlet region area			=   0.046 cm2 
+<br>        Inlet Reynolds No.			= 0.003275
 
 <br>
 <br>
  # FLOW ANALYSIS #
 <BR>&nbsp;
 <br>
-<br> FLOW Analysis Wall Time  : 39.63 sec
-<br>        Solver Wall Time  : 29.97 sec ( 15.65 sec | 13.62 sec | 0.70 sec )
-<br>        Other Wall Time   : 9.66 sec ( 2.03 sec | 0.25 sec | 7.39 sec ) 
+<br> FLOW Analysis Wall Time  : 43.34 sec
+<br>        Solver Wall Time  : 30.04 sec ( 16.06 sec | 12.78 sec | 1.21 sec )
+<br>        Other Wall Time   : 13.30 sec ( 2.48 sec | 0.56 sec | 10.27 sec ) 
 <br>
-<br> FLOW Analysis CPU Time   : 389.91 sec
-<br>        Solver CPU Time   : 299.53 sec ( 157.91 sec | 133.56 sec | 8.06 sec )
-<br>        Other CPU Time    : 90.38 sec
+<br> FLOW Analysis CPU Time   : 418.02 sec
+<br>        Solver CPU Time   : 296.69 sec ( 156.09 sec | 129.02 sec | 11.58 sec )
+<br>        Other CPU Time    : 121.33 sec
 <br>
   Cooling time calculation ...
 <br>     Processing ... 10 %
@@ -412,19 +412,19 @@
     Domain  1 : Filling stage results summary : 
 
 <br> ------------------------------------------------------------------------------------------------
-<br>    11007 : Machine direction clamping force = 3.323648e-01 Tonne (3.66e-01 Ton U.S)
-<br>    11003 : X direction clamping force    = 3.951303e-01 Tonne (4.35e-01 Ton U.S)
-<br>    11004 : Y direction clamping force    = 3.323648e-01 Tonne (3.66e-01 Ton U.S)
-<br>    11005 : Z direction clamping force    = 3.107595e-02 Tonne (3.42e-02 Ton U.S)
-<br>    25001 : Required injection pressure   = 1.250389e+01 Mpa (1.81e+03 psi)
-<br>    Required pressure at end of fill(98% volume filled) = 1.220633e+01 MPa (1.77e+03 psi)
-<br>    25005 : Max. real temperature         = 2.302721e+02 oC  (4.46e+02 oF)
-<br>    25004 : Max. bulk temperature         = 2.302703e+02 oC  (4.46e+02 oF)
-<br>    25006 : Max. shear stress             = 8.858421e-01 Mpa (1.29e+02 psi)
-<br>    25007 : Max. shear rate               = 3.037834e+02 1/sec
-<br>    Filling end time                      = 1.952660
-<br>    Total time                            = 1.952660
-<br>    Part mass at filling end            = 2.299140 g
+<br>    11007 : Machine direction clamping force = 3.526753e-01 Tonne (3.89e-01 Ton U.S)
+<br>    11003 : X direction clamping force    = 4.113866e-01 Tonne (4.53e-01 Ton U.S)
+<br>    11004 : Y direction clamping force    = 3.526753e-01 Tonne (3.89e-01 Ton U.S)
+<br>    11005 : Z direction clamping force    = 3.273388e-02 Tonne (3.61e-02 Ton U.S)
+<br>    25001 : Required injection pressure   = 1.320530e+01 Mpa (1.92e+03 psi)
+<br>    Required pressure at end of fill(98% volume filled) = 1.273889e+01 MPa (1.85e+03 psi)
+<br>    25005 : Max. real temperature         = 2.302299e+02 oC  (4.46e+02 oF)
+<br>    25004 : Max. bulk temperature         = 2.302347e+02 oC  (4.46e+02 oF)
+<br>    25006 : Max. shear stress             = 1.094911e+00 Mpa (1.59e+02 psi)
+<br>    25007 : Max. shear rate               = 6.605733e+02 1/sec
+<br>    Filling end time                      = 1.961954
+<br>    Total time                            = 1.961954
+<br>    Part mass at filling end            = 2.381705 g
 <br> ------------------------------------------------------------------------------------------------
 </b>
 <br>
@@ -436,13 +436,13 @@
 <br>
 # Filling stage has completed #
 <BR>&nbsp;
-<br> Total Wall Time     : 42.26 sec
-<br>    Solver Wall Time : 30.40 sec ( 15.65 sec | 13.62 sec | 1.13 sec )
-<br>    Other Wall Time  : 11.86 sec
+<br> Total Wall Time     : 46.97 sec
+<br>    Solver Wall Time : 30.73 sec ( 16.06 sec | 12.78 sec | 1.89 sec )
+<br>    Other Wall Time  : 16.24 sec
 <br>
-<br> Total CPU Time      : 397.42 sec
-<br>   Solver CPU Time   : 303.59 sec ( 157.91 sec | 133.56 sec | 12.13 sec )
-<br>   Other CPU Time    : 93.83 sec
+<br> Total CPU Time      : 432.06 sec
+<br>   Solver CPU Time   : 303.42 sec ( 156.09 sec | 129.02 sec | 18.31 sec )
+<br>   Other CPU Time    : 128.64 sec
 <br> Report File - C:\Users\wskelly\github\dfm-mold\Simulation\simulation_tong_half\Default\Default.KD3
 <br>_______________________________________________________________________________
 

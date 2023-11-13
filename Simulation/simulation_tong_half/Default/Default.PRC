@@ -10,8 +10,8 @@
    Strc= 31005     Matd= 0     Valu= 400.000000       Sr1= 50001     Sr2= 1     | edit
    Strc= 31006     Matd= 0     Valu= 100.000000  Sr1= 0         Sr2= 0     | spinner     | Min:0       | Max:100     | Step:1.0
    Strc= 31007     Matd= 0     Valu= 0           Sr1= 0         Sr2= 0     | switch      | Off:0       | On:1
-   Strc= 31008     Matd= 0     Valu= 4.280000  Sr1= 31007     Sr2= 1     | edit
-   Strc= 31009     Matd= 0     Valu= 20.079000  Sr1= 31007     Sr2= 1     | edit
+   Strc= 31008     Matd= 0     Valu= 4.340000  Sr1= 31007     Sr2= 1     | edit
+   Strc= 31009     Matd= 0     Valu= 20.139000  Sr1= 31007     Sr2= 1     | edit
    Strc= 31010     Matd= 0     Valu= 1           Sr1= 31007     Sr2= 1     | switch      | Off:0       | None:1
    Strc= 31011     Matd= 0     Valu= 0           Sr1= 0         Sr2= 0     | switch      | off:0       | None:1
    Strc= 31012     Matd= 0     Valu= 1           Sr1= 31011     Sr2= 1     | switch      | Weight %:1  | Volume %:2

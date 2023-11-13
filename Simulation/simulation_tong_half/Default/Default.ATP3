@@ -1,7 +1,10 @@
-Glength= 5   |   Npen= 1   |   Item= 1
-StrIndx= 21201  |  Long= 5   |   Wide= 2  |  NodElm= 0401  |  Color= 1
-       1       1017          0
-       2       1028          0
-       3        328          1
-       4        335          0
-       5        693          1
+Glength= 8   |   Npen= 1   |   Item= 1
+StrIndx= 21201  |  Long= 8   |   Wide= 2  |  NodElm= 0401  |  Color= 1
+       1       1541          0
+       2       1637          0
+       3        550          1
+       4        557          1
+       5        558          1
+       6       1091          1
+       7       1491          1
+       8       1492          1
